@@ -17,7 +17,7 @@ The code for our estimator is provided in `estimator.py`, with utility functions
 ### Python
 - python 3
 - numpy
-- cvxpy (1.0 or later, tested with 1.0.21) with ECOS solver (distributed with CVXPY by default)
+- cvxpy (1.0 or later, tested with 1.0.21) with ECOS and SCS solvers (distributed with CVXPY by default)
 - scipy
 - multiprocessing
 
